@@ -7,6 +7,7 @@
 	: 그 후 분산버전관리(DVCS - Dispersion Version Control System) : 중앙 시스템 문제 있을 시 로컬에서 클론이 가능해짐
 	
 1.2. 짧게 보는 Git의 역사
+	:
 
 	
 	
