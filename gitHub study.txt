@@ -35,6 +35,16 @@
 		: GUI도 있지만 모든 기능을 구현하지 못한다.
 		
 		
+	1.5. 시작하기 - Git 설치
+		: http://git-scm.com/download/win 에서 설치
+		
+		
+	1.6. 시작하기 - Git 최초 설정
+		: 64비트 windows 시스템에서 notepad ++로 config 여는 방법
+		: -> git config --global core.editor "'C:/Program Files/Notepad++/notepad++.exe' -multiInst -nosession"
+		
+		
+		
 		
 		
 	
@@ -47,4 +57,4 @@
 
 
 ================깃 단축키=======================
-강제종료 : esc esc q
+종료 : q
