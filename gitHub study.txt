@@ -40,8 +40,14 @@
 		
 		
 	1.6. 시작하기 - Git 최초 설정
-		: 64비트 windows 시스템에서 notepad ++로 config 여는 방법
-		: -> git config --global core.editor "'C:/Program Files/Notepad++/notepad++.exe' -multiInst -nosession"
+		: 64비트 windows 시스템에서 notepad ++로 config 여는 방법 -> 직접 찾아서 notepad로 열기
+		: 설정명령어 -> git config
+		: Git/etc/gitconfig 파일 -> 모든사용자와 모든저장소에 적용되는 설정파일 -> git config --system 
+		: 해당폴더 /.gitconfig -> 특정사용자(현재사용자)에게의 모든 저장소에 적용되는 설정파일 -> git config --global
+		: .git/config -> 특정저장소(혹은 현재 작업 중인 프로젝트) 에만 적용되는 설정파일 -> git config --local
+		: 우선순위는 .git/config -> 해당폴더/.gitconfig -> git/etc/gitconfig 순임.
+		
+		
 		
 		
 		
