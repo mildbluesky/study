@@ -29,6 +29,13 @@
 		: *.git directory (Repository) -> 깃저장관련 정보를 저장한다.
 		
 		
+	1.4. CLI
+		: git tool
+		: 모든 기능 구현 가능하다.
+		: GUI도 있지만 모든 기능을 구현하지 못한다.
+		
+		
+		
 		
 	
 
