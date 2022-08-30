@@ -46,6 +46,22 @@
 		: 해당폴더 /.gitconfig -> 특정사용자(현재사용자)에게의 모든 저장소에 적용되는 설정파일 -> git config --global
 		: .git/config -> 특정저장소(혹은 현재 작업 중인 프로젝트) 에만 적용되는 설정파일 -> git config --local
 		: 우선순위는 .git/config -> 해당폴더/.gitconfig -> git/etc/gitconfig 순임.
+		: 사용자 이름설정 -> git config --global user.name "John Doe"
+		: 사용자 이메일 설정 -> git config --global user.email "abs@nave.com"
+		
+		
+	1.7. 도움말 보기
+		: -h, --help 옵션 사용
+		
+		
+	1.8.시작하기 - 요약
+		: Git이 무엇인지 다른 CVC와 어떻게 다른지 배움.
+		: Git설치법과 사용자 정보설정을 배움
+		
+		
+	
+2.Git의 기초
+
 		
 		
 		
