@@ -68,6 +68,10 @@
 		: 주소는 https, git://, user@server:path/to/repo.git같은 ssh도 가능
 		: git-bash.exe파일의 default 위치는 program files\git\git-bash.exe 이다.
 		
+		
+	2.2. Git의 기초 - 수정하고 저장소에 저장하기
+		:
+		
 
 		
 		
@@ -76,7 +80,6 @@
 		
 		
 		
-	ㅅㅇ
 
 	
 
