@@ -95,7 +95,7 @@
 		: modified 파일 되돌리기 -> git checkout -- fileName
 		: (추가) commit 시점으로 되돌리기 -> git reset --hard or --soft or --mixed checksum
 		: (추가) --hard 기존 커밋을 초기화, --soft 기존 커밋을 유지, --mixed 변경 내용은 남아있지만 staged된 정보는 초기화
-		: test
+		: test edited!
 		
 		
 		
