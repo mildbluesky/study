@@ -95,10 +95,14 @@
 		: modified 파일 되돌리기 -> git checkout -- fileName
 		: (추가) commit 시점으로 되돌리기 -> git reset --hard or --soft or --mixed checksum
 		: (추가) --hard 기존 커밋을 초기화, --soft 기존 커밋을 유지, --mixed 변경 내용은 남아있지만 staged된 정보는 초기화
+<<<<<<< HEAD
 		
 		
 	*2.5. GIt의 기초 - 리모트 저장소
 		: 로컬 저장소에는 없지만 git hub 에 있는 것을 가져오려면 -> git fetch origin
+=======
+		: test edited!
+>>>>>>> 486ec5e3b9e8920783a926b06312d3a6d1ac0959
 		
 		
 		
