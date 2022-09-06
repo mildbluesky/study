@@ -106,8 +106,16 @@
 		: git tag -a v1.0 -m "my version 1.0" -> v1.0으로 저장.
 		: git show v1.0 -> v1.0으로 수정된 사항 보기.
 		: git push origin v1.0 -> v1.0 테그 공유하기 pull받을 경우 tag정보도 pull
-		: 
 		
+		
+	2.7. Git의 기초 - Git Alias
+		: 약어 지정
+		: ex) git config --global alias.ci commit -a -m
+		: --> git ci 'test'
+		
+	
+	2.8. Git의 기초 - 요약
+		: Clone 하는 법, 커핏하는 법, 히스토리 조회하는법
 		
 		
 	
