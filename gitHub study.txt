@@ -133,7 +133,7 @@
 	3.2. Git 브랜치 - 브랜치와 Merge의 기초
 		: 브랜치 - hotfix 브랜치 - 운영브랜치
 		: 브랜치에서 작업 후 -> hotfix에서 merge하고 이상없으면 -> 운영브랜치로 merge
-		
+		: test!
 
 		
 		
