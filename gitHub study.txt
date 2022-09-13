@@ -146,8 +146,7 @@
 	
 	3.5. Git 브랜치 - 리모트 브랜치
 		: git ls-remote -> 모든 리모트 Refs를 조회.
-		: 
-
+		: merge test 
 		
 		
 		
