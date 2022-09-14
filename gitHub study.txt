@@ -146,12 +146,20 @@
 	
 	3.5. Git 브랜치 - 리모트 브랜치
 		: git ls-remote -> 모든 리모트 Refs를 조회.
-		: merge test 
-		: test 222
 		
 		
+	3.6. Git 브랜치 - Rebase 하기
+		: commit 합치기 -> git rebase -i head~3 -> 합칠부분 : squard -> 3개 합치기
+	
 		
+	3.7. Git 브랜치 - 요약
+		: branch 만들기, merge하기, rebase 하기
 		
+	
+4. Git 서버
+	
+	4.1. Git 서버 - 프로토콜
+		:
 		
 		
 		
